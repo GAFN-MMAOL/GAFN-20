@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-09-26T21:09:23.214530+00:00",
+  "timestamp": "2025-09-26T22:09:49.269405+00:00",
   "channels": [
     {
       "url": "https://getafreenode.com/subscribe/?uuid=45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.45,
+        "total_configs": 6,
+        "valid_configs": 1,
+        "unique_configs": 1,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.82,
-        "last_success": "2025-09-26T21:09:23.213709+00:00",
+        "overall_score": 78.66,
+        "last_success": "2025-09-26T22:09:49.268726+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 2,
+          "hysteria2://": 1,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
